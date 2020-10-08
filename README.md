@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <details>
-<summary>Collapse test</summary>
+<summary>Interesting</summary>
 <pre>
-first-line  
-secont-line
+山高路远  来日方长  
